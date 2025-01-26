@@ -1,2 +1,0 @@
-# Technical_Isopod_075
-The blog post about Windows 11 shortcut keys provides a comprehensive guide to the various keyboard shortcuts available in the Windows 11 operating system. It covers shortcuts that enhance productivity and facilitate easier navigation, including new shortcuts introduced specifically for Windows 11. The post likely details shortcuts for the Start Menu, Quick Settings, Taskbar, File Explorer, and more, aiming to help users make the most of their Windows 11 experience.
